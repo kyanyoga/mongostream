@@ -1,0 +1,23 @@
+{
+  "name": "mongostream",
+  "version": "1.0.0",
+  "description": "mongo twitter streamer",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "Gus Segura",
+  "license": "ISC",
+  "keywords": [
+    "mongodb",
+    "analytics",
+    "twitter",
+    "javascript"
+  ],
+  "dependencies": {
+    "moment": "^2.13.0",
+    "mongodb": "^2.1.18",
+    "ntwitter": "^0.5.0"
+  }
+}
