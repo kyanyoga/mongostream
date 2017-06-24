@@ -18,6 +18,7 @@
   "dependencies": {
     "moment": "^2.13.0",
     "mongodb": "^2.1.18",
-    "ntwitter": "^0.5.0"
+    "ntwitter": "^0.5.0",
+    "simple-node-logger": "^0.93.28"
   }
 }
